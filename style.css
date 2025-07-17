@@ -59,7 +59,7 @@ body.dark-theme {
 /* HOME SECTION */
 .home-section {
   height: 100vh;
-  background: url('/assets/images/wood\ background.jpg') no-repeat center center/cover;
+  background: url('wood\ background.jpg') no-repeat center center/cover;
   background-color: #cccaca;
   display: flex;
   justify-content: center;
@@ -107,7 +107,7 @@ body.dark-theme {
 
 /* ABOUT SECTION */
 .about-section {
-  background: url('/assets/images/banner-bg.jpg.jpg') no-repeat center center/cover;
+  background: url('banner-bg.jpg.jpg') no-repeat center center/cover;
   min-height: 90vh;
   padding: 100px 20px;
   text-align: center;
@@ -151,7 +151,7 @@ body.dark-theme {
 
 /* PROJECT SECTION */
 .projects-section {
-  background: url('/assets/images/top-view-work-desk-with-drawing-pad-glasses-with-copy-space.jpg') no-repeat center center/cover;
+  background: url('top-view-work-desk-with-drawing-pad-glasses-with-copy-space.jpg') no-repeat center center/cover;
   min-height: 100vh;
   padding: 80px 20px;
   text-align: center;
@@ -213,7 +213,7 @@ a {
 
 /* SKILLS SECTION */
 .skills-section {
-  background: url('assets/images/keyboard.jpg') no-repeat center center/cover;
+  background: url('keyboard.jpg') no-repeat center center/cover;
   background-color: #fff;
   min-height: 100vh;
   padding: 100px 20px;
@@ -266,7 +266,7 @@ a {
 
 /* CONTACT SECTION */
 .contact-section {
-  background: url('/assets/images/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg') no-repeat center center/cover;
+  background: url('glasses-lie-laptop-reflecting-light-from-screen-dark.jpg') no-repeat center center/cover;
   min-height: 100vh;
   padding: 100px 20px;
   text-align: center;
